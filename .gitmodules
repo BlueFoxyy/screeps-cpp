@@ -1,0 +1,3 @@
+[submodule "lib/screepsxx"]
+	path = lib/screepsxx
+	url = https://github.com/BlueFoxyy/screepsxx.git
